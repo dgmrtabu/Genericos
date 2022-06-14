@@ -1,0 +1,14 @@
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.exe.config
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.exe
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.pdb
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.csprojAssemblyReference.cache
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.csproj.CoreCompileInputs.cache
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.exe
+C:\Users\thenc\Desktop\CursoCsharp\SeccionGenericosClases\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.pdb
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.exe.config
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.exe
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\bin\Debug\SeccionGenericosClases.pdb
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.csproj.AssemblyReference.cache
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.csproj.CoreCompileInputs.cache
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.exe
+C:\Users\David Montaño Rocha\Documents\Desarrollo\Csharp\SeccionGenericosClases\SeccionGenericosClases\obj\Debug\SeccionGenericosClases.pdb
